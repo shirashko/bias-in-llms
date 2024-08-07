@@ -3,6 +3,8 @@
 ## Overview
 This project examines the influence of anchoring bias on large language models (LLMs) and evaluates various debiasing strategies. Anchoring bias refers to the tendency of initial information, such as a stated price, to disproportionately affect subsequent decision-making processes. This repository houses the benchmark datasets, the results of model estimations, and comprehensive analysis within a Google Colab notebook.
 
+<img src="https://github.com/user-attachments/assets/142c2fde-b71f-4083-be2c-5d70169a56a4" alt="Narrow Waist Image" width="400">
+
 ## Repository Structure
 - `/images`: Contains visual aids and charts relevant to the project.
 - `/input`: Includes the input data for the models, specifically the benchmark datasets.
